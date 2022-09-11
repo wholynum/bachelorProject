@@ -1,0 +1,17 @@
+.event-enter {
+    opacity: 0;
+}
+
+.event-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.event-exit {
+    opacity: 1;
+}
+
+.event-exit-active {
+    opacity: 0;
+    transition: opacity 500ms ease-in;
+}

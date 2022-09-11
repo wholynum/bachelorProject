@@ -1,0 +1,59 @@
+.contacts__title {
+    color: rgb(51, 62, 72);
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.contacts__description p {
+    
+    text-indent: 40px;
+    margin-bottom: 16px;
+    line-height: 1.5;
+}
+
+.contacts__description span {
+    color:rgb(237, 28, 36);
+    font-weight: 500;
+}
+
+.contacts__description h2 {
+    color: rgb(51, 62, 72);
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.contacts__description h3 {
+    color: rgb(51, 62, 72);
+    font-size: 18px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.contacts__description a {
+    text-decoration: none;
+    color: rgb(237, 28, 36);
+    font-weight: 500;
+}
+
+.contacts__description ol {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.question__button {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(237, 28, 36);
+    padding: 15px;
+    color: rgb(51, 62, 72);
+    font-size: 18px;
+    transition: 0.4s;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.question__button:hover {
+    background-color: rgb(237, 28, 36);
+    color: rgb(255, 255, 255);
+}

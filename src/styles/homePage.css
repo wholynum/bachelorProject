@@ -1,0 +1,113 @@
+.home__title {
+    color: rgb(51, 62, 72);
+    font-size: 28px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.home__about {
+    text-align: left;
+    line-height: 1.5;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(51, 62, 72, 0.1);
+    background: rgba(228, 228, 228, 0.96);
+    padding: 20px;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgb(51, 62, 72);
+}
+
+.home__about-picture {
+    margin-right: 20px;
+    width: 50%;
+    
+}
+
+.home__about-picture img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.home__about-description {
+    width: 50%;
+}
+
+.home__about-description p {
+    margin-top: 20px;
+    color: rgb(237, 28, 36);
+}
+
+.home__content {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    color: rgb(51, 62, 72);
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.home__content p {
+    margin-left: 10px;
+    
+}
+
+.home__purposes {
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(51, 62, 72, 0.1);
+    background: rgba(228, 228, 228, 0.96);
+    padding: 20px;
+    font-weight: 500;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+}
+
+.home__content-title  {
+    color: rgb(237, 28, 36);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.home__space {
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(51, 62, 72, 0.1);
+    background: rgba(228, 228, 228, 0.96);
+    padding: 20px;
+    font-weight: 500;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+}
+
+.home__content span {
+    display: block;
+    border-bottom: 1px solid rgb(237, 28, 36);
+    margin: 10px;
+}
+
+.home__federal {
+    border-radius: 20px;
+    box-shadow: 0 0 50px rgba(51, 62, 72, 0.1);
+    background: rgba(228, 228, 228, 0.96);
+    padding: 20px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 30px;
+    color: rgb(51, 62, 72);
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    line-height: 1.5;
+}
+

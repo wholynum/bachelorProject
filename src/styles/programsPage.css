@@ -1,0 +1,32 @@
+.propgrams-title {
+    color: rgb(51, 62, 72);
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.materials-content p {
+    text-indent: 40px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+.materials-content a {
+    text-decoration: none;
+    color: rgb(237, 28, 36);
+    font-weight: 500;
+}
+
+.materials-title {
+    margin-top: 30px;
+}
+
+.zctnr {
+    width: 600px;
+}
+
+.zbtns {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

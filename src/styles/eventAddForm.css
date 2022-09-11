@@ -1,0 +1,20 @@
+.event-form__content {
+    width: 700px;
+}
+
+.event__desr {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    max-width: 700px;
+    height: 25vh;
+    padding: 10px;
+    margin: 5px 0;
+    border: 2px solid rgb(237, 28, 36);
+    border-radius: 5px;
+    color: rgb(51, 62, 72);
+    font-size: 16px;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+

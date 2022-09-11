@@ -1,0 +1,17 @@
+.program-enter {
+    opacity: 0;
+}
+
+.program-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.program-exit {
+    opacity: 1;
+}
+
+.program-exit-active {
+    opacity: 0;
+    transition: opacity 500ms ease-in;
+}

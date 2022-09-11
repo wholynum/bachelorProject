@@ -1,0 +1,12 @@
+h2 {
+    color: rgb(51, 62, 72);
+    font-size: 20px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.input__container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}

@@ -1,0 +1,36 @@
+.mtb__title {
+    color: rgb(51, 62, 72);
+    font-size: 24px;
+    margin: 24px 0;
+}
+
+.classroom__descriprion-body {
+    text-indent: 40px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+    line-height: 1.5;
+    color:rgb(51, 62, 72);
+}
+
+.classroom__descriprion-body__tab {
+    margin-bottom: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
+    line-height: 1.5;
+    color:rgb(51, 62, 72);
+}
+
+.mtb_downlinks p {
+    text-indent: 40px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+    line-height: 1.5;
+    color:rgb(51, 62, 72);
+}
+
+.mtb_downlinks a {
+    text-decoration: none;
+    color: rgb(237, 28, 36);
+    font-weight: 500;
+    margin-left: 50px;
+}

@@ -1,0 +1,23 @@
+.teacher-enter {
+    opacity: 0;
+}
+
+.teacher-enter-active {
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.teacher-exit {
+    opacity: 1;
+}
+
+.teacher-exit-active {
+    opacity: 0;
+    transition: opacity 500ms ease-in;
+}
+
+.list__title {
+    color: rgb(51, 62, 72);
+    font-size: 24px;
+    margin: 24px 0;
+}
